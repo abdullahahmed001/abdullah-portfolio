@@ -1,4 +1,4 @@
-# Abdullah Ahmed Portfolio
+# Abdullah Ahmed's Portfolio 
 
 Personal portfolio website for Abdullah Ahmed, a software engineering student at San Jose State University with interests in AI, DevOps, and full-stack engineering.
 
